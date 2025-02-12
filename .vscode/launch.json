@@ -5,7 +5,7 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": ["10", "0.5", "0.1"],
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/home/nusk/Develop/school/class/ai/ga",
